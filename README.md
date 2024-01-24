@@ -1,1 +1,2 @@
-# Beginning first repository of mine
+# Beginning
+first repository of mine
